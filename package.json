@@ -1,0 +1,10 @@
+{
+  "name": "journalai",
+  "packageManager": "yarn@3.4.1",
+  "workspaces": [
+    "frontend"
+  ],
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
